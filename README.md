@@ -2,7 +2,7 @@
 
 > Your Personal Pip-Boy for Navigating the Digital Wasteland of Information.
 
-[![V.A.L.I.S. Screenshot](https://raw.githubusercontent.com/SonfireUwU/V.A.L.I.S/main/assets/ScreenShot.png)](link/to/your/screenshot.png)
+[![V.A.L.I.S. Screenshot]([https://raw.githubusercontent.com/SonfireUwU/V.A.L.I.S/main/assets/ScreenShot.png](https://ibb.co/ymwtdXyq))]
 *(Replace above placeholder with an actual screenshot/GIF link!)*
 
 ---
