@@ -33,6 +33,7 @@ Welcome, Overseer! V.A.L.I.S. isn't just another OSINT tool; it's an **experienc
 [
 ![V.A.L.I.S. Screenshot](https://github.com/SonfireUwU/V.A.L.I.S/raw/main/assets/ScreenShot.png)
 
+
 *(Click image to enlarge - Replace with your best screenshot/GIF!)*
 
 ---
