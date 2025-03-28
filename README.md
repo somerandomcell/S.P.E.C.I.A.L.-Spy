@@ -6,9 +6,6 @@
 
 <p align="center">
   <em>Your Personal Pip-Boy for Navigating the Digital Wasteland of Information.</em>
-  <br><br>
-  <a href="https://github.com/SonfireUwU/V.A.L.I.S"><strong>Explore the docs »</strong></a> <!-- Link to repo -->
-  <br><br>
   <a href="https://github.com/SonfireUwU/V.A.L.I.S/issues">Report Bug</a>
   ·
   <a href="https://github.com/SonfireUwU/V.A.L.I.S/issues">Request Feature</a>
