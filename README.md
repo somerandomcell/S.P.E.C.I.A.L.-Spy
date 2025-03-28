@@ -31,7 +31,8 @@ Welcome, Overseer! V.A.L.I.S. isn't just another OSINT tool; it's an **experienc
 
 💡 Built purely with **HTML, CSS, and Vanilla JavaScript**, V.A.L.I.S. runs entirely **client-side** in your browser – no installations, no backend required. Just pure, retro-futuristic investigation power.
 [
-[[![V.A.L.I.S. Screenshot](https://raw.githubusercontent.com/SonfireUwU/V.A.L.I.S/main/assets/ScreenShot.png)](https://raw.githubusercontent.com/SonfireUwU/V.A.L.I.S/main/assets/ScreenShot.png)](https://github.com/somerandomcell/S.P.E.C.I.A.L.-Spy/blob/main/V.A.L.I.S.png)](https://github.com/somerandomcell/S.P.E.C.I.A.L.-Spy/blob/main/V.A.L.I.S.png)
+![V.A.L.I.S. Screenshot](https://github.com/SonfireUwU/V.A.L.I.S/raw/main/assets/ScreenShot.png)
+
 *(Click image to enlarge - Replace with your best screenshot/GIF!)*
 
 ---
