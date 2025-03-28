@@ -159,11 +159,6 @@ Please ensure your code maintains the vanilla JS/CSS structure and fits the over
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
-
-*(Remember to create a `LICENSE` file containing the standard MIT License text)*
 
 ---
 
