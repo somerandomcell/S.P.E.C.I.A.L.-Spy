@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SonfireUwU/V.A.L.I.S/main/assets/V.A.L.I.S.png" alt="V.A.L.I.S. Logo/Banner - Optional" width="600">
+  <img src="[https://raw.githubusercontent.com/SonfireUwU/V.A.L.I.S/main/assets/V.A.L.I.S.png](https://github.com/somerandomcell/S.P.E.C.I.A.L.-Spy/blob/main/V.A.L.I.S.png)" alt="V.A.L.I.S. Logo/Banner - Optional" width="600">
 </p>
 
 <h1 align="center">☢️ V.A.L.I.S. ☢️</h1>
