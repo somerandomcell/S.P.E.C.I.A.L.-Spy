@@ -142,19 +142,6 @@ The wasteland always holds more secrets... Potential future upgrades:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have ideas for improvements, new features, or bug fixes:
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
-Please ensure your code maintains the vanilla JS/CSS structure and fits the overall theme.
-
----
 
 
 ---
